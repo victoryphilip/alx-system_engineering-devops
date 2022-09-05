@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -1 "A[a-z]" /etc/ssh/sshd_config
